@@ -7,7 +7,9 @@ medical data and diagnostics.
 
 Private Email: adam.stogsdill@gmail.com
 
-### 📃  [RESUME]([https://docs.google.com/document/d/1GpM8OoHoTeJoEmDikclAJGfwtDnwgCaUsKVETiD2OlI/edit?usp=sharing](https://docs.google.com/document/d/1v9BoahmtmLre8970ODPlzGG3vfROBRz7qMCrjK1KkuQ/edit?usp=sharing))
+### 📃  RESUME
+
+[link]([https://docs.google.com/document/d/1GpM8OoHoTeJoEmDikclAJGfwtDnwgCaUsKVETiD2OlI/edit?usp=sharing](https://docs.google.com/document/d/1v9BoahmtmLre8970ODPlzGG3vfROBRz7qMCrjK1KkuQ/edit?usp=sharing))
 
 ### 📚 Reading List
 - [ ] Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
